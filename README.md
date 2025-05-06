@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning ... **HTML, CSS, JavaScript**
 
-- ⚡ Fun fact: ... I'm posting my daily study using TikTok so you can click [**here**](https://www.tiktok.com/@phenzz.7?is_from_webapp=1&sender_device=pc) 😊
+- ⚡ Fun fact: ... My real name is Steven Yang and I usually posting my daily study using TikTok so you can click [**here**](https://www.tiktok.com/@phenzz.7?is_from_webapp=1&sender_device=pc) 😊
 
 - 😸 Hobby: I love to read manhwa, novel, watch anime, play games, and go to the gym.
 
