@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/https://open.spotify.com/user/31dktjeliqj5wicywq7qz6qhpjga" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dktjeliqj5wicywq7qz6qhpjga&count=5&unique=true" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dktjeliqj5wicywq7qz6qhpjga&count=10&width={500}&unique=true" alt="Spotify Recently Played" />
   </a>
 </p>
 
