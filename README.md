@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome here!!👋
 
 <!--
 **Mikan-Koi/mikan-koi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning ... **HTML,CSS,Javascript**
+
+- ⚡ Fun fact: ... Im posting my daily study using tiktok so u can click [**here**](https://www.tiktok.com/@phenzz.7?is_from_webapp=1&sender_device=pc)😊
+
+- 😸 Hobby : ... I love to read manhwa,novel,watch anime,playing games and go to the gym.
